@@ -22,7 +22,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/@oSuccess3
-[youtube]: https://www.youtube.com/c/osuccessrf1304
+[youtube]: https://www.youtube.com/osuccessrf1304
 [instagram]: https://www.instagram.com/golden_osuccess
 [linkedin]: https://linkedin.com/in/michael-kangethe
 
