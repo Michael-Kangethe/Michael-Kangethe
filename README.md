@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/michael-kangethe/">Michael Kangethe</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+Security Analyst with hands-on experience in security operations utilizing SIEM (Microsoft Sentinel), threat detection, and vulnerability management. I am skilled in incident response leadership, threat hunting, fine-tuning alerts and configurations, and developing detection rules using KQL to enhance security monitoring. I also have a strong background in remediation, enabling me to ensure remediation within the SLO timeframe. Furthermore, I am adept at ensuring compliance with regulatory frameworks such as HIPAA, PCI-DSS, GDPR, and SOC2. 
 
 
 ## ⚠️ Vulnerability Management Projects
